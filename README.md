@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mehrol911
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on people who are good at programming languages
-- 📫 How to reach me https://t.me/Mehrol911
+- 📫 How to reach me @Mehrol911
 
 <!---
 Mehrol911/Mehrol911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
