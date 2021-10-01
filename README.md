@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mehrol911
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 📫 How to reach me https://t.me/Mehrol911
 
 <!---
