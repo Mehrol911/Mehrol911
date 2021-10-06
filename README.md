@@ -1,4 +1,4 @@
-<h1 align="center"> 🧔 Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center"> 👨‍💻 Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  </h1>
  <p align="center"><strong>I am Software and Harware Engineer from <a href="https://www.google.com/maps/place/%D0%A2%D0%BE%D1%88%D0%BA%D0%B5%D0%BD%D1%82,+O%60zbekiston/@41.2825125,69.1392799,11z/data=!3m1!4b1!4m5!3m4!1s0x38ae8b0cc379e9c3:0xa5a9323b4aa5cb98!8m2!3d41.2994958!4d69.2400734" target="_blank">Tashkent, Uzbekistan :uzbekistan:</a> </strong></p>
 <div align="center">
@@ -8,7 +8,7 @@
 
 
 
-- 👋 Hi, I’m @Mehrol911
+- 👋 Hi, I’m Mekhrol Bazarov
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
 - 📫 How to reach me https://t.me/Mehrol911
