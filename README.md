@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m Mekhrol Bazarov
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently studying at INHA University in Tashkent 
 - 📫 How to reach me https://t.me/Mehrol911
 
 <!---
