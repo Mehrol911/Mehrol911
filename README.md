@@ -43,3 +43,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 </h3> 
+
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+
