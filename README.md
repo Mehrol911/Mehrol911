@@ -46,4 +46,5 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github.com/Mehrol911/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Mehrol911/github-stats/blob/master/generated/languages.svg)
-
+<img src="https://github.com/Mehrol911/github-stats/raw/master/generated/overview.svg" alt="" style="max-width: 100%;">
+<img src="https://github.com/Mehrol911/github-stats/raw/master/generated/languages.svg" alt="" style="max-width: 100%;">
