@@ -34,14 +34,14 @@ You can click the Preview link to take a look at your changes.
   </summary> 
   
   <br> 
-
+<!-- 
   <p align="center">
    <a href="https://github.com/Mehrol911">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mehrol911&theme=radical">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mehrol911&show_icons=true&theme=material-palenight&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrol911&show_icons=true&theme=material-palenight&layout=compact" alt="Mehrol" />
   </a>
-</p>
+</p>  -->
 </h3> 
 
 ![](https://github.com/Mehrol911/github-stats/blob/master/generated/overview.svg)
