@@ -60,5 +60,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://github.com/mehrol911/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/mehrol911/github-stats/blob/master/generated/languages.svg)
  
-[![Mehrol's github activity graph](https://activity-graph.herokuapp.com/graph?username=mehrol911&theme=react-dark)](https://github.com/mehrol911/github-readme-activity-graph)
+[![Mehrol's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mehrol911&theme=react-dark)](https://github.com/Mehrol911/github-readme-activity-graph)
 </a>
