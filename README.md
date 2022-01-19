@@ -11,6 +11,7 @@
 - 🌱 I’m currently studying at INHA University in Tashkent 
 - 📫 How to reach me https://t.me/Mehrol911
  
+ 
  <p align="center" dir="auto">
   <a href="https://github.com/mehrol911?tab=repositories&amp;sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://camo.githubusercontent.com/f767a1f88fefb8acb468499ea2e5c5c16e2c526a94d5bb8b94b84fce01e6031b/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f64796e616d69632f6a736f6e3f6c6f676f3d7374617226636f6c6f723d353539363063266c6162656c436f6c6f723d343838323037266c6162656c3d5374617273267374796c653d666f722d7468652d62616467652671756572793d2532342e73746172732675726c3d68747470733a2f2f6170692e6769746875622d737461722d636f756e7465722e776f726b6572732e6465762f757365722f696c6f7372696d" data-canonical-src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&amp;color=55960c&amp;labelColor=488207&amp;label=Stars&amp;style=for-the-badge&amp;query=%24.stars&amp;url=https://api.github-star-counter.workers.dev/user/mehrol911" style="max-width: 100%;"></a>
@@ -63,3 +64,5 @@ GitHub Activity Graph </h1>
 
 [![Mehrol's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mehrol911&theme=react-dark)](https://github.com/Mehrol911/github-readme-activity-graph)
 </a>
+
+ 
